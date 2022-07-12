@@ -47,4 +47,4 @@ Before any changes are made, you will be asked to review the list of selected re
   - Want to know how many repos have been deleted? [Checkout the public analytics dashboard](https://app.usefathom.com/share/ikjnvhai/repo+remover)
 
 ## Author
-Zaahir Moolla ([@zmoolla](https://twitter.com/zmoolla), [zaahir.ca](https://zaahir.ca))
+=> Zaahir Moolla ([@zmoolla](https://twitter.com/zmoolla), [zaahir.ca](https://zaahir.ca))
